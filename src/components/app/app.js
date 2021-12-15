@@ -1,7 +1,5 @@
 import React, { Component } from 'react';
 import Sidepanel from '../sidepanel/sidepanel';
-import Menu from '../menu/menu';
-import Promo from '../promo/promo';
 import About from '../about/about';
 import Resume from '../resume/resume';
 import Frameworks from '../frameworks/frameworks';
@@ -18,14 +16,11 @@ export default class App extends Component {
         return(
             <div>
                 <Sidepanel/>
-                <Menu/>
-                <Promo/>
                 <About/>
                 <Resume/>
                 <Frameworks/>
                 <Meportfolio/>
                 <Contacts/>
-                
             </div>
         )
 

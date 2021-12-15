@@ -1,3 +1,11 @@
-import Script from './menu'
+const hamburger = document.querySelector('.hamburger'),
+        menu = document.querySelector('.menu'),
+        menuElem = document.querySelector('.menu__close');
 
-export default Script;
+hamburger.addEventListener('click',()=>{
+menu.classList.add('active');
+});     
+
+menuElem.addEventListener('click',()=>{
+    menu.classList.remove('active');
+});   
