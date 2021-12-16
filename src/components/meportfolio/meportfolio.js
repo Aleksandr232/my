@@ -20,7 +20,7 @@ export default class Meportfolio extends Component{
                             width="248px" height="248px" alt=""/></a></div>
                  <div className="workelem"><a href="https://aleksandr232.github.io/add-employees.io/"><img src={myapp}
                                 width="248px" height="248px" alt=""/></a></div>
-                <div className="workelem"><a href="https://aleksandr232.github.io/climbers.io/"><img src={climbers}
+                <div className="workelem"><a href="http://snowkzn.ru/"><img src={climbers}
                                 width="248px" height="248px" alt=""/></a></div>
                 <div className="workelem"><a href="https://calc-io-gamma.vercel.app/"><img src={calc}
                                 width="248px" height="248px" alt=""/></a></div>
