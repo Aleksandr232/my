@@ -935,13 +935,7 @@
      grid-gap: 20px
  }
  
- .work__me img:hover {
-     content: '';
-     -webkit-filter: grayscale(50%);
-     filter: grayscale(50%);
-     transform: scale(.9);
-     transition: .6s all
- }
+ 
  
  .contacts {
      padding: 120px 0 90px 0
