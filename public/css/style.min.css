@@ -229,6 +229,7 @@
     content:'';
     background-color: white;
     transform: translateX(5px);
+    transition: 0.7s all;
 }
 
 @media (max-width:870px) {
