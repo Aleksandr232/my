@@ -212,6 +212,25 @@
     background-color: #fff
 }
 
+.resume_pdf{
+   width: 20px;
+   
+}
+.res_btn{
+    width: 135px;
+    height: 45px;
+    background-color: #ffd000;
+    color: #000;
+    margin: 0px auto;
+    border-radius: 10px
+}
+
+.res_btn:hover{
+    content:'';
+    background-color: white;
+    transform: translateX(5px);
+}
+
 @media (max-width:870px) {
     .hamburger:hover {
         transform: rotate(9deg)
