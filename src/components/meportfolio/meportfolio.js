@@ -31,8 +31,8 @@ export default class Meportfolio extends Component{
                 <div className="workelem"><a href="https://github.com/Aleksandr232/calc.io"><button className='workm'><img src="https://img.icons8.com/ios/50/000000/github--v2.gif" style={{width:'30px' }}/></button></a>
                 <a href="https://calc-io-gamma.vercel.app/"><img src={calc}
                                 width="248px" height="248px" alt=""/></a></div>
-                <div className="workelem"><a href="https://coffe-iota.vercel.app/"><button className='workm'><img src="https://img.icons8.com/ios/50/000000/github--v2.gif" style={{width:'30px' }}/></button></a>
-                <a href="https://calc-io-gamma.vercel.app/"><img src={coffe}
+                <div className="workelem"><a href="https://github.com/Aleksandr232/coffe"><button className='workm'><img src="https://img.icons8.com/ios/50/000000/github--v2.gif" style={{width:'30px' }}/></button></a>
+                <a href="https://coffe-iota.vercel.app/"><img src={coffe}
                                 width="248px" height="248px" alt=""/></a></div>
             </div>
         </div>
