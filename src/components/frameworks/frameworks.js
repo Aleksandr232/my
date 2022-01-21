@@ -28,25 +28,12 @@ export default class Frameworks extends Component{
                     <div className="frameworks__subtitle">Этот язык программирования позволяет оживить все что угодно:
                         слайдеры, окна, подсказки, вкладки, получение данных от сервера и многое другое</div>
                 </div>
-                <div class="frameworks__elem" id="frameworks__elem"><img
-                        src="https://img.icons8.com/ios-filled/100/000000/jquery.png" width="140px"
-                        class="frameworks__img"/>
-                    <div class="frameworks__name">Jquery</div>
-                    <div class="frameworks__subtitle">Библиотека Jquery позволит ускорить разработку. Без необходимости
-                        интегрировать в проект мы её не будем, но навык работы с ней присутствует</div>
-                </div>
                 <div className="frameworks__elem" id="frameworks__elem"><img
                         src="https://img.icons8.com/ios/50/000000/react-native--v2.gif" width="140px"
                         className="frameworks__img"/>
                     <div className="frameworks__name">React</div>
                     <div className="frameworks__subtitle">Эта библиотека позволяет создавать web-приложения. Мы можем
                         создать максимально интерактивный продукт именно под ваши цели</div>
-                </div>
-                <div class="frameworks__elem" id="frameworks__elem"><img
-                        src="https://img.icons8.com/color/140/000000/nodejs.png" className="frameworks__img"/>
-                    <div class="frameworks__name">Node.js</div>
-                    <div class="frameworks__subtitle">Эта платформа позволяет создавать бэкенд для вашего продукта -
-                        “мозги”, которые будут выполнять действия, которые пользователь не видит</div>
                 </div>
                 <div className="frameworks__elem" id="frameworks__elem"><img
                         src="https://img.icons8.com/color/140/000000/bootstrap.png" className="frameworks__img"/>
