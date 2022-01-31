@@ -945,7 +945,8 @@
      padding: 0 35px 0 52px;
      display: grid;
      grid-template-columns: 4px 585px;
-     justify-content: space-between
+     justify-content: space-between;
+     display: none;
  }
  
  .contacts__social,
